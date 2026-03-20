@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Dhiraj Kumar Singh 👋
 
-<!--
-**techDhiraj053/techDhiraj053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (React | Node.js | MongoDB)  
+🚀 Passionate about building high-performance web applications  
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎬 CineVerse
+- Movie & TV discovery platform using TMDB API
+- React, Redux Toolkit, Tailwind, Axios  
+👉 https://github.com/techDhiraj053/CineVerse
+
+### 🎨 Studio D
+- Motion-driven agency website with advanced animations  
+- GSAP, Framer Motion, React  
+👉 https://github.com/techDhiraj053/studio-d
+
+## ⚡ Tech Stack
+- Frontend: React, Redux, Tailwind
+- Backend: Node.js, Express
+- Database: MongoDB, SQL
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/dhirajkr/
